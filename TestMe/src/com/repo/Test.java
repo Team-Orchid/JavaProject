@@ -8,10 +8,7 @@ public class Test {
 		System.out.println("This the main file of the project");
 		
 		System.out.println("This is second line");
-		
-		System.out.println("this is modified by charu");
-		
-		
+		System.out.println("changes by amit");
 
 	}
 
