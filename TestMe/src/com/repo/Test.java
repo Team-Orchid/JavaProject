@@ -6,6 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This the main file of the project");
+		
+		System.out.println("This is second line");
 
 	}
 
